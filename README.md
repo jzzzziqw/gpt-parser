@@ -1,2 +1,2 @@
-# gpt-parsher
-bob13 digital forensics  edu
+# gpt-parser
+bob13 digital forensics edu
